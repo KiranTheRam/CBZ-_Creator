@@ -1,4 +1,4 @@
-# CBZ-_Creator
+# CBZ_Creator
 Converts manga stored as raw images into CBZ files
 
 This project provides a Python script that automates the organization and conversion of manga chapters into CBZ (Comic Book Zip) files. The script is designed to traverse a specified directory containing manga series, compress each chapter into its own CBZ file, and then store these files in an organized output directory. This utility is perfect for manga enthusiasts who want to manage their digital manga collection efficiently.
